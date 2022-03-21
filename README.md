@@ -6,4 +6,4 @@
 - WebAPI.Models
 - WebAPI.TestAPI
 
-![Status](https://img.shields.io/badge/Status%20Projects-development-red)
+![Status](https://img.shields.io/badge/Projects%20status-development-red)
